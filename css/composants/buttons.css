@@ -1,0 +1,50 @@
+
+.btn_jaune {
+    border: 2px outset rgb(157, 154, 154);
+    background-color: rgb(253,202,59,255);
+    border-radius: 15px;
+    font-size: 20px;
+    font-family: 'calibri';
+    text-decoration: none;
+    color: white;
+    margin-top: 10px;
+    font-weight: bolder;
+    transition: background-color 2sec;
+}
+
+.btn_jaune:hover{
+    border: 2px outset rgb(157, 154, 154);
+    background-color: rgb(206, 155, 26);
+    border-radius: 15px;
+    font-size: 21px;
+    font-family: 'calibri';
+    text-decoration: none;
+    color: white;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+
+.btn_orange {
+    border: 2px outset rgb(157, 154, 154);
+    background-color:  rgb(219, 143, 28);
+    border-radius: 15px;
+    font-size: 20px;
+    font-family: 'calibri';
+    text-decoration: none;
+    color: white;
+    margin-top: 10px;
+    font-weight: bolder;
+    transition: background-color 2sec;
+}
+
+.btn_orange:hover{
+    border: 2px outset rgb(157, 154, 154);
+    background-color: rgb(153, 100, 21);
+    border-radius: 15px;
+    font-size: 21px;
+    font-family: 'calibri';
+    text-decoration: none;
+    color: white;
+    margin-top: 10px;
+    font-weight: bolder;
+}
